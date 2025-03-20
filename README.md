@@ -2,20 +2,6 @@
 
 This is a Python-based payroll system designed for use in the Philippines. It utilizes a combination of libraries to provide a robust and user-friendly experience.
 
-## Tech Stack
-
-* **`cffi==1.17.1`**: Foreign Function Interface for Python, used for calling C code.
-* **`cryptography==44.0.2`**: Provides cryptographic recipes and primitives to Python developers.
-* **`customtkinter==5.2.2`**: A modern and customizable UI-library based on Tkinter.
-* **`darkdetect==0.8.0`**: Detects the system's dark mode setting.
-* **`greenlet==3.1.1`**: Lightweight in-process concurrent programming.
-* **`packaging==24.2`**: Core utilities for Python packaging.
-* **`pycparser==2.22`**: C parser in Python.
-* **`PyMySQL==1.1.1`**: Pure Python MySQL client library.
-* **`python-dotenv==1.0.1`**: Reads key-value pairs from a `.env` file and can set them as environment variables.
-* **`SQLAlchemy==2.0.38`**: The Python SQL toolkit and Object-Relational Mapper.
-* **`typing_extensions==4.12.2`**: Backported and experimental type hints.
-
 ## Features
 
 * Calculates basic payroll components (basic salary, overtime, deductions).
