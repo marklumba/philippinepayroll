@@ -1,0 +1,62 @@
+[
+    {
+        "employee_id": "123",
+        "pay_period_start": "2025-01-01",
+        "pay_period_end": "2025-01-31",
+        "basic_pay": 104545.45454545453,
+        "overtime_pay": 0.0,
+        "holiday_pay": 0.0,
+        "gross_pay": 104545.45454545453,
+        "withholding_tax": 22196.536363636358,
+        "sss_contribution": 1125.0,
+        "philhealth_contribution": 1500.0,
+        "pagibig_contribution": 2000.0,
+        "other_deductions": {},
+        "net_pay": 77723.91818181817
+    },
+    {
+        "employee_id": "12",
+        "pay_period_start": "2025-01-01",
+        "pay_period_end": "2025-01-31",
+        "basic_pay": 104545.45454545453,
+        "overtime_pay": 0.0,
+        "holiday_pay": 0.0,
+        "gross_pay": 104545.45454545453,
+        "withholding_tax": 22196.536363636358,
+        "sss_contribution": 1125.0,
+        "philhealth_contribution": 1500.0,
+        "pagibig_contribution": 2000.0,
+        "other_deductions": {},
+        "net_pay": 77723.91818181817
+    },
+    {
+        "employee_id": "1",
+        "pay_period_start": "2025-02-01",
+        "pay_period_end": "2025-02-15",
+        "basic_pay": 49999.99999999999,
+        "overtime_pay": 0.0,
+        "holiday_pay": 0.0,
+        "gross_pay": 49999.99999999999,
+        "withholding_tax": 6666.749999999998,
+        "sss_contribution": 1125.0,
+        "philhealth_contribution": 1500.0,
+        "pagibig_contribution": 2000.0,
+        "other_deductions": {},
+        "net_pay": 38708.24999999999
+    },
+    {
+        "employee_id": "1",
+        "pay_period_start": "2025-01-01",
+        "pay_period_end": "2025-01-15",
+        "basic_pay": 49999.99999999999,
+        "overtime_pay": 0.0,
+        "holiday_pay": 0.0,
+        "gross_pay": 49999.99999999999,
+        "withholding_tax": 6666.749999999998,
+        "sss_contribution": 1125.0,
+        "philhealth_contribution": 1500.0,
+        "pagibig_contribution": 2000.0,
+        "other_deductions": {},
+        "net_pay": 38708.24999999999
+    }
+]
