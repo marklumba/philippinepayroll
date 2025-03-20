@@ -27,6 +27,10 @@ This is a Python-based payroll system designed for use in the Philippines. It ut
 * Dark mode detection using `darkdetect`.
 * Secure password storage using `cryptography`.
 
+## Screenshot
+
+![Payroll System GUI](images/payroll_gui_screenshot.png)
+
 ## Installation
 
 1.  **Clone the repository:**
